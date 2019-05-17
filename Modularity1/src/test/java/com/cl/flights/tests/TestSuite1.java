@@ -33,6 +33,15 @@ public class TestSuite1 {
 
 	@Test
 	public void test1() throws Exception {
+		System.out.println("THis is test1 method");
+	}
+	@Test
+	public void test2() throws Exception {
+		System.out.println("THis is test2 method");
+	}
+	@Test
+	public void test3() throws Exception {
+		System.out.println("THis is test3 method");
 
 	}
 
